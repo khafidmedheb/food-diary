@@ -30,3 +30,4 @@ Then run the following commands in your favorite command line tool :
 `$ bin/console doctrine:database:create`
 `$ bin/console doctrine:schema:create`
 
+# food-diary
