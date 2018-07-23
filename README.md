@@ -1,1 +1,1 @@
-# Food Diary
+# food-diary
